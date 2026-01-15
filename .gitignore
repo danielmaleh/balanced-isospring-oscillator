@@ -1,0 +1,40 @@
+# MATLAB generated files
+*.asv
+*.m~
+*.mex*
+*.mlappinstall
+*.mltbx
+
+# Simulink autosave files
+*.slxc
+*.autosave
+
+# MATLAB code generation
+codegen/
+slprj/
+
+# Packaged app and toolbox files
+*.mlappinstall
+*.mltbx
+
+# MATLAB app designer
+*.mlapp~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.temp
